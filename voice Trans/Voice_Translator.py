@@ -2,7 +2,7 @@
 """
 Created on Thu Jun  1 10:18:31 2023
 
-@author: ASUS
+@author: Akash-Uprety
 """
 import googletrans
 import speech_recognition
